@@ -1,0 +1,11 @@
+# Eclipse
+.project
+.pydevproject
+.settings/*
+
+# Python
+*.pyc
+*.pyo
+
+# Project
+/PaDaES/local_settings.py
